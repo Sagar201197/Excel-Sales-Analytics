@@ -1,4 +1,4 @@
-**Excel Sales and Analysis**
+****Excel Sales and Analysis********
 
 
 This project uses Excel to analyze AtliQ Hardware's sales and financial data. It provides valuable insights into customer behavior, market performance, and financial health to aid decision-making and stakeholder communication.
