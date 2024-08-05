@@ -8,6 +8,7 @@ This project uses Excel to analyze AtliQ Hardware's sales and financial data. It
 
 Customer Performance Report
 This report reveals customer behavior, segments customers, and identifies buying patterns and key performance indicators.
+
 **
 **Market Performance vs. Sales Targets Report****
 
